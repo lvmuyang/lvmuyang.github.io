@@ -21,7 +21,7 @@ navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "README.md", title: Home,sidebaricon: address-card}
   - {title: Research}
   - {title: Publications}
-  - {title: Work with me}
+  - {title: Contact}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:lvmuyang@scu.edu"}
