@@ -1,8 +1,11 @@
 ---
-title: "About"
-permalink: "/about/"
+title: "Home"
+permalink: "/home/"
 layout: page
 ---
+
+## About me 关于我
+I am an ecologist based in Sichuan University, Chengdu, China. 
 
 ## Github Pages
 
