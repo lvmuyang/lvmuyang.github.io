@@ -18,14 +18,14 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {title: Research}
-  - {file: "archive.html", title: Home Change, sidebaricon: home}
+  - {file: "archive.html", title: Home, sidebaricon: home}
   - {file: "README.md", title: About me,sidebaricon: address-card}
+  - {title: Research}
+  - {title: Publications}
 
 external:                       # accepts {file, title, url, icon, sidebaricon}
   - {title: Mail, icon: envelope, url: "mailto:lvmuyang@scu.edu"}
   - {title: Github, icon: github, url: "https://github.com/lvmuyang"}
-  - {title: X, icon: x, url: "@muyanglv"}
 
 comments:
 #  disqus_shortname: ""         # see https://disqus.com
