@@ -1,3 +1,6 @@
+---
+layout: default
+---
 <!-- No titles/headings at all -->
 
 <div align="center">
