@@ -7,12 +7,14 @@
   </h1>
   
    <!-- Abstract spatial ecology banner (main visual focus) -->
-  <img src="assets/images/ISES.png" alt="Abstract Spatial Ecology Visualization" width="50%" height="auto" title="Biodiversity patterns across spatial scales">
+  <img src="assets/images/ISES.png" alt="Abstract Spatial Ecology Visualization" width="60%" height="auto" title="Biodiversity patterns across spatial scales">
 
   <!-- Bio text (plain paragraph, no headings) -->
   <p style="font-size: 16px; line-height: 1.6; max-width: 800px; margin: 2rem auto; text-align: left;">
     I am a theoretical ecologist now based in Sichuan University, Chengdu, China. <br>
     My research focuses on understanding and predicting biodiversity patterns across spatial and temporal scales.
+
+    我在四川大学研究理论生态！我专注于理解和预测生物多样性在不同时空尺度上的变化！
   </p>
 </div>
 
