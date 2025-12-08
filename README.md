@@ -12,7 +12,7 @@ layout: page
   <div style="flex: 0 0 200px;"> <!-- Fixed width for image column -->
     <img src="assets/images/muyang-profile.jpg" 
          alt="Muyang Lu Profile Picture" 
-         width="auto" 
+         width="20%" 
          height="auto" 
          style="border-radius: 8px; box-shadow: 0 2px 5px rgba(0,0,0,0.1);">
   </div>
