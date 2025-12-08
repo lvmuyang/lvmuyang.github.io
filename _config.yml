@@ -18,8 +18,8 @@ show_minimal: false             # remove all clutter
 # Menu                          # for available icons see https://fontawesome.com/v5/icons/
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.md",title: Home, sidebaricon: home}
-  - {file: "README.md", title: Team,sidebaricon: address-card}
+  - {file: "index.md",title: Home}
+  - {file: "README.md", title: Team}
   - {title: Research}
   - {title: Publications}
   - {title: Contact}
