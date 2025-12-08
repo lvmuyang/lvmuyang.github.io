@@ -14,8 +14,8 @@ layout: default
 
   <!-- Bio text (plain paragraph, no headings) -->
   <p style="font-size: 16px; line-height: 1.6; max-width: 800px; margin: 2rem auto; text-align: left;">
-    I am an ecologist now based at Sichuan University, Chengdu, China. <br>
-    I integrate theoretical, statistical, and empirical tools to understanding how biodiversity changes across scales.
+    Our group is now based at Sichuan University, Chengdu, China. <br>
+    We integrate theoretical, statistical, and empirical tools to understand how biodiversity changes across scales.
 
   </p>
 </div>
