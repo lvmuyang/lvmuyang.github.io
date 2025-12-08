@@ -1,6 +1,6 @@
 ---
 title: "Team"
-layout: default
+layout: page
 ---
 ---
 
