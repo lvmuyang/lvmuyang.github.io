@@ -19,7 +19,7 @@ layout: page
   <div style="flex: 0 0 200px !important; /* Fixed 200px width (no shrink/grow) */
               min-width: 180px !important;">
     <img 
-      src="https://raw.githubusercontent.com/YOUR-USERNAME/YOUR-REPO-NAME/main/assets/images/muyang-profile.jpg" <!-- Replace with your raw URL -->
+      src="assets/images/muyang-profile.jpg"
       alt="Muyang Lu Profile Picture" 
       style="width: 100% !important; /* Override layout image resets */
              height: auto !important;
