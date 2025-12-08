@@ -1,7 +1,7 @@
 ---
-title: "Home"
-permalink: "/home/"
-layout: page
+title: "Team"
+layout: default
+---
 ---
 
 ## About me 关于我
