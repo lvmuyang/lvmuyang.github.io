@@ -6,8 +6,6 @@ layout: page
 
 ## Muyang Lu(Lyu) 吕牧羊, Assistant Professor
 
-## Muyang Lu(Lyu) 吕牧羊, Assistant Professor
-
 <!-- Side-by-side image + text (image left) -->
 <div style="display: flex; flex-direction: row; flex-wrap: wrap; gap: 2rem; align-items: flex-start; max-width: 1000px; margin: 0 auto;">
   <!-- Profile Picture (left column) -->
