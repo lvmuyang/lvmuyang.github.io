@@ -14,9 +14,8 @@ layout: default
 
   <!-- Bio text (plain paragraph, no headings) -->
   <p style="font-size: 16px; line-height: 1.6; max-width: 800px; margin: 2rem auto; text-align: left;">
-    I am a theoretical ecologist now based in Sichuan University, Chengdu, China. <br>
-    My research focuses on understanding and predicting biodiversity patterns across spatial and temporal scales.
-
+    I am an ecologist now based at Sichuan University, Chengdu, China. <br>
+    I integrate theoretical, statistical, and empirical tools to understanding how biodiversity changes across scales.
 
   </p>
 </div>
