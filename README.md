@@ -10,7 +10,7 @@ layout: page
 <div style="display: flex; flex-wrap: wrap; gap: 2rem; align-items: flex-start; max-width: 1000px; margin: 0 auto;">
   <!-- Profile Picture -->
   <div style="flex: 0 0 200px;"> <!-- Fixed width for image column -->
-    <img src="assets/images/muyang-profile.jpg" 
+    <img src="/assets/images/muyang-profile.jpg" 
          alt="Muyang Lu Profile Picture" 
          width="100%" 
          height="auto" 
