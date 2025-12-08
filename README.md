@@ -8,12 +8,19 @@ layout: page
 
 <!-- No titles/headings at all -->
 
-<div align="left">  
-  <img src="assets/images/muyang-profile.jpg" alt="Abstract Spatial Ecology Visualization" width="60%" height="auto" title="Biodiversity patterns across spatial scales">
+<div align="center">
+  <!-- Styled title (matches abstract banner vibe) -->
+  <h1 style="font-family: sans-serif; font-style: italic; font-size: 1.8rem; color: #2c3e50; font-weight: 500; margin-bottom: 1.5rem;">
+    Integrative Spatial Ecology Studio
+  </h1>
+  
+   <!-- Abstract spatial ecology banner (main visual focus) -->
+  <img src="assets/images/ISES.png" alt="Abstract Spatial Ecology Visualization" width="60%" height="auto" title="Biodiversity patterns across spatial scales">
 
   <!-- Bio text (plain paragraph, no headings) -->
   <p style="font-size: 16px; line-height: 1.6; max-width: 800px; margin: 2rem auto; text-align: left;">
-Muyang’s research focuses on developing theoretical and statistical tools for macroecological studies. His work centers on niche and species distribution modeling, metacommunity dynamics, and the impacts of climate change on biodiversity.
+    Our group is now based at Sichuan University, Chengdu, China. <br>
+    We integrate theoretical, statistical, and empirical tools to understand how biodiversity changes across scales.
 
   </p>
 </div>
