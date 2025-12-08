@@ -19,7 +19,7 @@ show_minimal: false             # remove all clutter
 
 navigation:                     # accepts {file, title, url, icon, sidebaricon}
   - {file: "index.md", title: Home, sidebaricon: home}
-  - {file: "README.md", title: Team}
+  - {file: "team.md", title: Team}
   - {title: Research}
   - {title: Publications}
   - {title: Contact}
