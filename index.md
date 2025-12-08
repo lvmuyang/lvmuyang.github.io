@@ -2,6 +2,9 @@
 layout: page
 title: "Home"
 ---
+<div align="center">
+  <img src="assets/images/ISES.svg" alt="Abstract Spatial Ecology Visualization" width="80%" height="auto" title="Biodiversity patterns across spatial scales">
+</div>
 
 I am a theoretical ecologist now based in Sichuan University, Chengdu, China.
 
