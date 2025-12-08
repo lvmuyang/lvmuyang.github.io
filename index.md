@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Styled title (matches abstract banner vibe) -->
-  <h1 style="font-family: sans-serif; font-size: 2.2rem; color: #2c3e50; font-weight: 500; margin-bottom: 1.5rem;">
+  <h1 style="font-family: sans-serif; font-style: italic; font-size: 2.2rem; color: #2c3e50; font-weight: 500; margin-bottom: 1.5rem;">
     Integrative Spatial Ecology Studio
   </h1>
   
