@@ -2,7 +2,7 @@
 
 <div align="center">
   <!-- Styled title (matches abstract banner vibe) -->
-  <h1 style="font-family: sans-serif; font-style: italic; font-size: 2.2rem; color: #2c3e50; font-weight: 500; margin-bottom: 1.5rem;">
+  <h1 style="font-family: sans-serif; font-style: italic; font-size: 1.8rem; color: #2c3e50; font-weight: 500; margin-bottom: 1.5rem;">
     Integrative Spatial Ecology Studio
   </h1>
   
@@ -14,7 +14,7 @@
     I am a theoretical ecologist now based in Sichuan University, Chengdu, China. <br>
     My research focuses on understanding and predicting biodiversity patterns across spatial and temporal scales.
 
-    我在四川大学研究理论生态！我专注于理解和预测生物多样性在不同时空尺度上的变化！
+
   </p>
 </div>
 
