@@ -64,7 +64,7 @@ layout: page
         <i class="fas fa-envelope !important;"></i> Email
       </a>
       <!-- CV -->
-      <a href="YOUR-CV-URL-HERE" 
+      <a href="https://github.com/lvmuyang/lvmuyang.github.io/files/CV_Muyang_Lu_2025.pdf" 
          style="color: #2c3e50 !important;
                 text-decoration: none !important; 
                 display: inline-flex !important; 
