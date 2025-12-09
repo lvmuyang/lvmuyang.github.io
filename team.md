@@ -1,5 +1,6 @@
 ---
 title: "Team"
+permalink: "/team/"
 layout: page
 ---
 
