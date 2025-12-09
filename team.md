@@ -54,7 +54,7 @@ layout: page
                 align-items: center !important; 
                 flex-wrap: wrap !important;">
       <!-- Email -->
-      <a href="mailto:YOUR-EMAIL-HERE" 
+      <a href="mailto:lvmuyang@scu.edu.cn" 
          style="color: #2c3e50 !important; 
                 text-decoration: none !important; 
                 display: inline-flex !important; 
@@ -65,7 +65,7 @@ layout: page
         <i class="fas fa-envelope !important;"></i> Email
       </a>
       <!-- CV -->
-      <a href="YOUR-CV-URL-HERE" 
+      <a href="http://lvmuyang.github.io/files/CV_Muyang_Lu_2025.pdf" 
          style="color: #2c3e50 !important;
                 text-decoration: none !important; 
                 display: inline-flex !important; 
@@ -77,7 +77,7 @@ layout: page
         <i class="fas fa-file-pdf !important;"></i> CV
       </a>
       <!-- X (Twitter) -->
-      <a href="YOUR-X-URL-HERE" 
+      <a href="https://x.com/muyanglv" 
          style="color: #2c3e50 !important;
                 text-decoration: none !important; 
                 display: inline-flex !important; 
@@ -89,7 +89,7 @@ layout: page
         <i class="fab fa-x-twitter !important;"></i> X
       </a>
       <!-- Google Scholar (NEW) -->
-      <a href="YOUR-GOOGLE-SCHOLAR-URL-HERE" 
+      <a href="https://scholar.google.com.hk/citations?hl=zh-CN&user=D3wLjocAAAAJ" 
          style="color: #2c3e50 !important;
                 text-decoration: none !important; 
                 display: inline-flex !important; 
@@ -101,7 +101,7 @@ layout: page
         <i class="fab fa-google-scholar !important;"></i> Google Scholar
       </a>
       <!-- ResearchGate -->
-      <a href="YOUR-RESEARCHGATE-URL-HERE" 
+      <a href="https://www.researchgate.net/profile/Muyang-Lu" 
          style="color: #2c3e50 !important;
                 text-decoration: none !important; 
                 display: inline-flex !important; 
