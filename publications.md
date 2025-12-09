@@ -25,7 +25,7 @@ layout: page
 Song, C., **Lu, M.(co-first)**, Bennett, J.R., Gilbert, B., Fortin, M.-J. & Gonzalez, A. (2025). A geometric approach to beta diversity. *Ecological Monographs*, 95, e70008. [pdf](http://lvmuyang.github.io/files/EcoMon_2025.pdf) <br><br>
 Williamson, J., **Lu, M.**, Camus, M.F., Gregory, R.D., Maclean, I.M.D., Rocha, J.C., et al. (2025). Clustered warming tolerances and the nonlinear risks of biodiversity loss on a warming planet. *Philosophical Transactions of the Royal Society B: Biological Sciences*, 380, 20230321. [pdf](http://lvmuyang.github.io/files/ProcB_2025.pdf)<br><br>
 ## 2023
-**Lu, M.** & Jetz, W. (2023). Scale-sensitivity in the measurement and interpretation of environmental niches. *Trends in Ecology & Evolution*, 38, 554–567. [pdf](http://lvmuyang.github.io/files/TREE_2024.pdf) <br><br>
+**Lu, M.** & Jetz, W. (2023). Scale-sensitivity in the measurement and interpretation of environmental niches. *Trends in Ecology & Evolution*, 38, 554–567. [pdf](http://lvmuyang.github.io/files/TREE_2023.pdf) <br><br>
 ## 2022
 Gábor, L., Jetz, W., **Lu, M.**, Rocchini, D., Cord, A., Malavasi, M., et al. (2022). Positional errors in species distribution modelling are not overcome by the coarser grains of analysis. *Methods in Ecology and Evolution*, 13, 2289–2302. [pdf](http://lvmuyang.github.io/files/MEE_2022.pdf) <br><br>
 ## 2021
