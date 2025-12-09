@@ -35,6 +35,20 @@ layout: page
               font-size: 16px !important;
               text-align: left !important;
               margin: 0 !important;"> <!-- Override layout margin -->
-    Muyang’s research focuses on developing theoretical and statistical tools for macroecological studies. His work centers on niche and species distribution modeling, metacommunity dynamics, and the impacts of climate change on biodiversity.
+    <!-- Original Bio Text -->
+    Muyang’s research focuses on developing theoretical and statistical tools for macroecological studies. His work centers on niche and species distribution modeling, metacommunity dynamics, and the impacts of climate change on biodiversity.<br><br>
+    
+    <!-- ResearchGate Icon + Link (below bio) -->
+    <a href="YOUR-RESEARCHGATE-URL-HERE" 
+       style="color: #2c3e50 !important; /* Academic dark blue */
+              text-decoration: none !important; 
+              display: inline-flex !important; 
+              align-items: center !important; 
+              gap: 0.5rem !important;
+              font-size: 16px !important;"
+       target="_blank" 
+       title="Visit Muyang Lu's ResearchGate Profile">
+      <i class="fab fa-researchgate !important;"></i> ResearchGate
+    </a>
   </div>
 </div>
