@@ -4,7 +4,7 @@ permalink: "/team/"
 layout: page
 ---
 
-## Muyang Lu(Lyu) 吕牧羊, Assistant Professor
+## Muyang Lu 吕牧羊, Assistant Professor
 
 <!-- Load Font Awesome for all icons (includes Google Scholar) -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
@@ -25,7 +25,7 @@ layout: page
               display: flex !important; 
               flex-direction: column !important;">
     <img 
-      src="https://lvmuyang.github.io/assets/images/muyang-profile.jpg"
+      src="https://lvmuyang.github.io/assets/images/IMG_1919.jpeg"
       alt="Muyang Lu Profile Picture" 
       style="width: 100% !important; 
              height: auto !important;
