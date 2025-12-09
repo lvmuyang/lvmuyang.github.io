@@ -5,54 +5,111 @@ layout: page
 
 ## Muyang Lu(Lyu) 吕牧羊, Assistant Professor
 
-<!-- Load Font Awesome for ResearchGate icon (required) -->
+<!-- Load Font Awesome for icons -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
 
-
-<!-- Image Left + Text Right (Compatible with Jekyll "page" layout) -->
-<div style="display: flex !important; /* Override layout defaults */
-            flex-wrap: wrap !important; /* Wrap on mobile */
-            align-items: flex-start !important; /* Align image/text to top */
-            gap: 2rem !important; /* Space between image/text */
+<!-- Image Left + Text Right (Height-Aligned) -->
+<div style="display: flex !important; 
+            flex-wrap: wrap !important; 
+            align-items: stretch !important; /* Critical: Stretch items to same height */
+            gap: 2rem !important; 
             max-width: 1000px !important;
-            margin: 0 auto !important; /* Center the whole block */
-            padding: 0 1rem !important; /* Prevent edge cutoff */
-            clear: both !important;"> <!-- Fix layout float conflicts -->
+            margin: 0 auto !important; 
+            padding: 0 1rem !important; 
+            clear: both !important;">
 
-  <!-- Profile Image (Left) - Fixed width -->
-  <div style="flex: 0 0 200px !important; /* Fixed 200px width (no shrink/grow) */
-              min-width: 180px !important;">
+  <!-- Profile Image (Left) - Fixed width, image height defines container height -->
+  <div style="flex: 0 0 200px !important; 
+              min-width: 180px !important;
+              display: flex !important; /* Align image to top of container */
+              flex-direction: column !important;">
     <img 
       src="https://lvmuyang.github.io/assets/images/muyang-profile.jpg"
       alt="Muyang Lu Profile Picture" 
-      style="width: 100% !important; /* Override layout image resets */
+      style="width: 100% !important; 
              height: auto !important;
              border-radius: 8px !important;
              box-shadow: 0 2px 5px rgba(0,0,0,0.1) !important;
-             border: none !important;"> <!-- Remove layout default borders -->
+             border: none !important;">
   </div>
 
-  <!-- Bio Text (Right) - Adaptive width -->
-  <div style="flex: 1 !important; /* Fill remaining space */
-              min-width: 300px !important; /* Wrap to below image on mobile */
+  <!-- Bio Text + Icons (Right) - Stretches to match image height -->
+  <div style="flex: 1 !important; 
+              min-width: 300px !important;
+              display: flex !important; /* Critical: Vertical layout for bio content */
+              flex-direction: column !important;
+              justify-content: flex-start !important; /* Keep content at top (optional) */
               line-height: 1.6 !important;
               font-size: 16px !important;
               text-align: left !important;
-              margin: 0 !important;"> <!-- Override layout margin -->
-    <!-- Original Bio Text -->
+              margin: 0 !important;">
+    
+    <!-- Bio Text (top of stretched container) -->
     Muyang’s research focuses on developing theoretical and statistical tools for macroecological studies. His work centers on niche and species distribution modeling, metacommunity dynamics, and the impacts of climate change on biodiversity.<br><br>
     
-    <!-- ResearchGate Icon + Link (below bio) -->
-    <a href="YOUR-RESEARCHGATE-URL-HERE" 
-       style="color: #2c3e50 !important; /* Academic dark blue */
-              text-decoration: none !important; 
-              display: inline-flex !important; 
-              align-items: center !important; 
-              gap: 0.5rem !important;
-              font-size: 16px !important;"
-       target="_blank" 
-       title="Visit Muyang Lu's ResearchGate Profile">
-      <i class="fab fa-researchgate !important;"></i> ResearchGate
-    </a>
+    <!-- Icon Container (below bio text) -->
+    <div style="display: flex !important; 
+                gap: 1.5rem !important; 
+                align-items: center !important; 
+                flex-wrap: wrap !important;">
+      <!-- Email -->
+      <a href="mailto:lvmuyang@scu.edu.cn" 
+         style="color: #2c3e50 !important; 
+                text-decoration: none !important; 
+                display: inline-flex !important; 
+                align-items: center !important; 
+                gap: 0.5rem !important;
+                font-size: 16px !important;"
+         title="Email Muyang Lu">
+        <i class="fas fa-envelope !important;"></i> Email
+      </a>
+      <!-- CV -->
+      <a href="YOUR-CV-URL-HERE" 
+         style="color: #2c3e50 !important;
+                text-decoration: none !important; 
+                display: inline-flex !important; 
+                align-items: center !important; 
+                gap: 0.5rem !important;
+                font-size: 16px !important;"
+         target="_blank" 
+         title="Download CV">
+        <i class="fas fa-file-pdf !important;"></i> CV
+      </a>
+      <!-- X (Twitter) -->
+      <a href="https://x.com/muyanglv" 
+         style="color: #2c3e50 !important;
+                text-decoration: none !important; 
+                display: inline-flex !important; 
+                align-items: center !important; 
+                gap: 0.5rem !important;
+                font-size: 16px !important;"
+         target="_blank" 
+         title="Follow on X (Twitter)">
+        <i class="fab fa-x-twitter !important;"></i> X
+      </a>
+      <!-- ResearchGate -->
+      <a href="https://www.researchgate.net/profile/Muyang-Lu" 
+         style="color: #2c3e50 !important;
+                text-decoration: none !important; 
+                display: inline-flex !important; 
+                align-items: center !important; 
+                gap: 0.5rem !important;
+                font-size: 16px !important;"
+         target="_blank" 
+         title="Visit ResearchGate Profile">
+        <i class="fab fa-researchgate !important;"></i> ResearchGate
+      </a>
+    </div>
   </div>
 </div>
+
+<!-- Hover Effect -->
+<style>
+  a:hover {
+    color: #3498db !important;
+    text-decoration: underline !important;
+  }
+  a[href*="researchgate"]:hover {
+    color: #00ccbb !important;
+  }
+</style>
