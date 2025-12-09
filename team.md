@@ -5,6 +5,10 @@ layout: page
 
 ## Muyang Lu(Lyu) 吕牧羊, Assistant Professor
 
+<!-- Load Font Awesome for ResearchGate icon (required) -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+
 <!-- Image Left + Text Right (Compatible with Jekyll "page" layout) -->
 <div style="display: flex !important; /* Override layout defaults */
             flex-wrap: wrap !important; /* Wrap on mobile */
