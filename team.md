@@ -1,6 +1,6 @@
 ---
-title: "Team"
-permalink: "/team/"
+title: "People"
+permalink: "/people/"
 layout: page
 ---
 
