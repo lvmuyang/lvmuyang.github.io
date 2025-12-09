@@ -64,7 +64,7 @@ layout: page
         <i class="fas fa-envelope !important;"></i> Email
       </a>
       <!-- CV -->
-      <a href="https://github.com/lvmuyang/lvmuyang.github.io/files/CV_Muyang_Lu_2025.pdf" 
+      <a href="https://lvmuyang.github.io/files/CV_Muyang_Lu_2025.pdf" 
          style="color: #2c3e50 !important;
                 text-decoration: none !important; 
                 display: inline-flex !important; 
@@ -98,6 +98,18 @@ layout: page
          target="_blank" 
          title="Visit ResearchGate Profile">
         <i class="fab fa-researchgate !important;"></i> ResearchGate
+      </a>
+      <!-- Google Scholar (NEW) -->
+      <a href="https://scholar.google.com.hk/citations?user=D3wLjocAAAAJ&hl=zh-CN" 
+         style="color: #2c3e50 !important;
+                text-decoration: none !important; 
+                display: inline-flex !important; 
+                align-items: center !important; 
+                gap: 0.5rem !important;
+                font-size: 16px !important;"
+         target="_blank" 
+         title="Google Scholar Profile">
+        <i class="fab fa-google-scholar !important;"></i> Google Scholar
       </a>
     </div>
   </div>
