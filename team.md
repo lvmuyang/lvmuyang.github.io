@@ -48,7 +48,7 @@ layout: page
     <!-- Bio Text -->
     Muyang’s research focuses on developing theoretical and statistical tools for macroecological studies. His work centers on niche and species distribution modeling, metacommunity dynamics, and the impacts of climate change on biodiversity.<br><br>
 
-    Education:<br><br>
+    Education:<br>
     -PhD, Ecology and Evolutionary Biology, Yale University<br>
     -MS, Ecology, Sun Yat-sen University<br>
     -BS, Biotechnology, Sun Yat-sen University<br><br>
