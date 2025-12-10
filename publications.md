@@ -20,7 +20,7 @@ layout: page
 </style>
 
 ## 2025
-**Lu, M.** & Jetz, W. (2025). Fine grain data reveal vulnerability of biodiversity to climate change. *Global Change Biology*，31, e70627. [pdf](http://lvmuyang.github.io/files/GCB_2025.pdf)<br><br>
+**Lu, M.** & Jetz, W. (2025). Fine—grain data reveal vulnerability of biodiversity to climate change. *Global Change Biology*，31, e70627. [pdf](http://lvmuyang.github.io/files/GCB_2025.pdf)<br><br>
 **Lu, M.**, Yanco, S.W., Carlson, B.S., Winner, K., Cohen, J.M., Ellis-Soto, D., et al. (2025). A theoretical framework for scaling ecological niches from individuals to species. *Proceedings of the National Academy of Sciences*, 122, e2425582122. [pdf](http://lvmuyang.github.io/files/PNAS_2025.pdf) <br><br>
 Song, C., **Lu, M.(co-first)**, Bennett, J.R., Gilbert, B., Fortin, M.-J. & Gonzalez, A. (2025). A geometric approach to beta diversity. *Ecological Monographs*, 95, e70008. [pdf](http://lvmuyang.github.io/files/EcoMon_2025.pdf) <br><br>
 Williamson, J., **Lu, M.**, Camus, M.F., Gregory, R.D., Maclean, I.M.D., Rocha, J.C., et al. (2025). Clustered warming tolerances and the nonlinear risks of biodiversity loss on a warming planet. *Philosophical Transactions of the Royal Society B: Biological Sciences*, 380, 20230321. [pdf](http://lvmuyang.github.io/files/ProcB_2025.pdf)<br><br>
