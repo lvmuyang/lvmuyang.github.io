@@ -15,7 +15,7 @@ Preferred qualifications:
 - A bachelor’s degree in ecology, statistics, physics, applied mathematics, computer science, or a related field.
 - Strong quantitative skills, including familiarity with programming languages (e.g., R/Python) and formal training in probability theory, statistics, and linear algebra.
 
-## Undergraduate Students
+## Undergraduate research assistants
 Undergraduate students interested in my research are welcome to inquire about research opportunities at any time.
 
 ## Mentoring style
