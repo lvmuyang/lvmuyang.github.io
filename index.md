@@ -26,7 +26,7 @@ layout: default
 <div align="center">
   <!-- Styled title (dark mode compatible) -->
   <h1 class="studio-title">
-    Integrative Spatial Ecology Studio
+    Integrative Macroecology
   </h1>
   
   <!-- Abstract spatial ecology banner (main visual focus) -->
