@@ -5,6 +5,59 @@ layout: page
 ---
 
 ## Niche modeling
+<!-- Load Font Awesome for all icons (includes Google Scholar) -->
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+<!-- Image Left + Text Right (Height-Aligned) -->
+<div style="display: flex !important; 
+            flex-wrap: wrap !important; 
+            align-items: stretch !important; /* Critical: Match image/bio height */
+            gap: 2rem !important; 
+            max-width: 1000px !important;
+            margin: 0 auto !important; 
+            padding: 0 1rem !important; 
+            clear: both !important;">
+
+  <!-- Profile Image (Left) - Fixed width -->
+  <div style="flex: 0 0 200px !important; 
+              min-width: 180px !important;
+              display: flex !important; 
+              flex-direction: column !important;">
+    <img 
+      src="https://lvmuyang.github.io/files/niche_modeling.png"
+      alt="Niche modeling" 
+      style="width: 100% !important; 
+             height: auto !important;
+             border-radius: 8px !important;
+             box-shadow: 0 2px 5px rgba(0,0,0,0.1) !important;
+             border: none !important;">
+  </div>
+
+  <!-- Bio Text + Icons (Right) - Stretched to match image height -->
+  <div style="flex: 1 !important; 
+              min-width: 300px !important;
+              display: flex !important; 
+              flex-direction: column !important;
+              justify-content: flex-start !important; 
+              line-height: 1.6 !important;
+              font-size: 16px !important;
+              text-align: left !important;
+              margin: 0 !important;">
+    
+    <!-- Bio Text -->
+    The concept of of the niche (i.e. the environmental conditions that allow a species' persistence) is almost as old as the field of ecology itself. 
+Despite the normial unification and conceptual elegance of the idea, empirically measuring the niche is challenging.<br>
+
+I show how Hutchinson's hypervolume can be measured using [a probabilistic framework](http://lvmuyang.github.io/files/MEE_2021.pdf) that allows partitioning niche variation into ecological meaningful components.<br>
+
+The quantifacation of the environmental niche depends on the spatial grain over which it is measured. We develop [a conceptual framework](http://lvmuyang.github.io/files/TREE_2023.pdf) to demonstrate how the scale-dependence of niche geometry can be predicted from key ecological attributes. 
+
+
+While understanding intraspecific niche variation is crucial for forecasting biodiversity change, the mathematical link between the species niche and individual niches remains elusive. I show how to [scale from individual niches to the species niche](http://lvmuyang.github.io/files/PNAS_2025.pdf), opening up new opportunities to investigate ecological and evolutionary topics.<br>
+    
+  </div>
+</div>
+
 The concept of of the niche (i.e. the environmental conditions that allow a species' persistence) is almost as old as the field of ecology itself. 
 Despite the normial unification and conceptual elegance of the idea, empirically measuring the niche is challenging.<br>
 
