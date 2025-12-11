@@ -31,7 +31,7 @@ layout: page
             font-size: 16px !important;">
 
   <img 
-    src="https://lvmuyang.github.io/files/niche_modeling.svg"
+    src="https://lvmuyang.github.io/files/niche_modeling.png"
     alt="Niche modeling" 
     class="research-img"
     style="float: left !important; 
@@ -65,7 +65,7 @@ layout: page
             font-size: 16px !important;">
 
   <img 
-    src="https://lvmuyang.github.io/files/meta-community.svg"
+    src="https://lvmuyang.github.io/files/meta-community.png"
     alt="Meta-community" 
     class="research-img"
     style="float: right !important; 
@@ -94,7 +94,7 @@ layout: page
             font-size: 16px !important;">
 
   <img 
-    src="https://lvmuyang.github.io/files/extinction_risk.svg"
+    src="https://lvmuyang.github.io/files/extinction_risk.png"
     alt="Extinction risk" 
     class="research-img"
     style="float: left !important; 
