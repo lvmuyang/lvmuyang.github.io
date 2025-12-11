@@ -33,7 +33,7 @@ layout: page
              border: none !important;">
   </div>
 
-  <!-- Bio Text + Icons (Right) - Stretched to match image height -->
+  <!-- Text (Right) - Stretched to match image height -->
   <div style="flex: 1 !important; 
               min-width: 300px !important;
               display: flex !important; 
@@ -44,17 +44,15 @@ layout: page
               text-align: left !important;
               margin: 0 !important;">
     
-    <!-- Bio Text -->
-    The concept of of the niche (i.e. the environmental conditions that allow a species' persistence) is almost as old as the field of ecology itself. 
-Despite the normial unification and conceptual elegance of the idea, empirically measuring the niche is challenging.<br>
+    <!-- Research Text (纯HTML超链接 + 拼写修正) -->
+    The concept of the niche (i.e. the environmental conditions that allow a species' persistence) is almost as old as the field of ecology itself. 
+Despite the normal unification and conceptual elegance of the idea, empirically measuring the niche is challenging.<br><br>
 
-I show how Hutchinson's hypervolume can be measured using [a probabilistic framework](http://lvmuyang.github.io/files/MEE_2021.pdf) that allows partitioning niche variation into ecological meaningful components.<br>
+    I show how Hutchinson's hypervolume can be measured using <a href="http://lvmuyang.github.io/files/MEE_2021.pdf" target="_blank" style="color: #2c3e50; text-decoration: underline;">a probabilistic framework</a> that allows partitioning niche variation into ecologically meaningful components.<br><br>
 
-The quantifacation of the environmental niche depends on the spatial grain over which it is measured. We develop [a conceptual framework](http://lvmuyang.github.io/files/TREE_2023.pdf) to demonstrate how the scale-dependence of niche geometry can be predicted from key ecological attributes. 
+    The quantification of the environmental niche depends on the spatial grain over which it is measured. We develop <a href="http://lvmuyang.github.io/files/TREE_2023.pdf" target="_blank" style="color: #2c3e50; text-decoration: underline;">a conceptual framework</a> to demonstrate how the scale-dependence of niche geometry can be predicted from key ecological attributes.<br><br>
 
-
-While understanding intraspecific niche variation is crucial for forecasting biodiversity change, the mathematical link between the species niche and individual niches remains elusive. I show how to [scale from individual niches to the species niche](http://lvmuyang.github.io/files/PNAS_2025.pdf), opening up new opportunities to investigate ecological and evolutionary topics.<br>
-    
+    While understanding intraspecific niche variation is crucial for forecasting biodiversity change, the mathematical link between the species niche and individual niches remains elusive. I show how to <a href="http://lvmuyang.github.io/files/PNAS_2025.pdf" target="_blank" style="color: #2c3e50; text-decoration: underline;">scale from individual niches to the species niche</a>, opening up new opportunities to investigate ecological and evolutionary topics.<br>
   </div>
 </div>
 
