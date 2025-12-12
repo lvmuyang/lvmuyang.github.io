@@ -16,15 +16,15 @@ layout: page
       color: white !important; /* White text for links in dark mode */
       text-decoration: underline !important; /* Keep underline for visibility */
     }
-    /* Dark mode for all section titles (higher contrast) */
+    /* Dark mode for section titles (light tones for contrast) */
     .niche-title {
-      color: #add8e6 !important; /* Lighter blue for Niche modeling */
+      color: #add8e6 !important; /* Light blue (dark mode) */
     }
     .metacomm-title {
-      color: #90ee90 !important; /* Pale green for Meta-community (dark mode) */
+      color: #90ee90 !important; /* Light green (dark mode) */
     }
     .extinction-title {
-      color: #f08080 !important; /* Pale red for Extinction risk (dark mode) */
+      color: #f08080 !important; /* Light red (dark mode) */
     }
   }
   /* Optional: Mobile responsiveness (image full-width on small screens) */
@@ -39,8 +39,8 @@ layout: page
   }
 </style>
 
-<!-- Niche modeling (Light Blue Title + Left Image + Text Wrap) -->
-<h2 class="niche-title" style="color: #87ceeb !important; margin-top: 2rem !important;">Niche modeling</h2>
+<!-- Niche modeling (Navy Blue Title + Left Image + Text Wrap) -->
+<h2 class="niche-title" style="color: #000080 !important; margin-top: 2rem !important;">Niche modeling</h2>
 <div style="max-width: 1000px !important; 
             margin: 0 auto !important; 
             padding: 0 1rem !important; 
@@ -73,8 +73,8 @@ layout: page
   <div style="clear: both !important;"></div>
 </div>
 
-<!-- Meta-community (Light Green Title + Right Image + Text Wrap) -->
-<h2 class="metacomm-title" style="color: #90ee90 !important; margin-top: 3rem !important;">Meta-community</h2>
+<!-- Meta-community (Dark Green Title + Right Image + Text Wrap) -->
+<h2 class="metacomm-title" style="color: #006400 !important; margin-top: 3rem !important;">Meta-community</h2>
 <div style="max-width: 1000px !important; 
             margin: 0 auto !important; 
             padding: 0 1rem !important; 
@@ -102,8 +102,8 @@ layout: page
   <div style="clear: both !important;"></div>
 </div>
 
-<!-- Extinction risk (Light Red Title + Left Image + Text Wrap) -->
-<h2 class="extinction-title" style="color: #f08080 !important; margin-top: 3rem !important;">Extinction risk</h2>
+<!-- Extinction risk (Maroon Title + Left Image + Text Wrap) -->
+<h2 class="extinction-title" style="color: #800000 !important; margin-top: 3rem !important;">Extinction risk</h2>
 <div style="max-width: 1000px !important; 
             margin: 0 auto !important; 
             padding: 0 1rem !important; 
