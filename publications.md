@@ -57,7 +57,7 @@ layout: page
     }
   }
 </style>
-<br><br>
+
 <p class="symbol-note">† denotes co-first authors</p>
 
 ## 2025
