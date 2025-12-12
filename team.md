@@ -4,10 +4,33 @@ permalink: "/people/"
 layout: page
 ---
 
-## Muyang Lu 吕牧羊, Assistant Professor
+## Muyang Lu (<span class="chinese-name">吕牧羊</span>), Assistant Professor
 
 <!-- Load Font Awesome for all icons (includes Google Scholar) -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+
+<!-- 楷体样式（跨浏览器/系统兼容） -->
+<style>
+  /* 楷体配置：覆盖不同系统的楷体字体 */
+  .chinese-name {
+    font-family: "KaiTi", "STKaiti", "AR PL UKai CN", "AR PL UKai HK", serif !important;
+    font-style: normal; /* 避免继承斜体样式 */
+    font-size: 1em; /* 匹配周边文本字号 */
+    font-weight: 400; /* 常规字重，不加粗 */
+  }
+
+  /* Hover Effects (Including Google Scholar Brand Color) */
+  a:hover {
+    color: #3498db !important; /* Light blue for general links */
+    text-decoration: underline !important;
+  }
+  a[href*="researchgate"]:hover {
+    color: #00ccbb !important; /* ResearchGate green */
+  }
+  a[href*="scholar.google"]:hover {
+    color: #4285F4 !important; /* Google Scholar blue (brand color) */
+  }
+</style>
 
 <!-- Image Left + Text Right (Height-Aligned) -->
 <div style="display: flex !important; 
@@ -120,17 +143,3 @@ layout: page
     </div>
   </div>
 </div>
-
-<!-- Hover Effects (Including Google Scholar Brand Color) -->
-<style>
-  a:hover {
-    color: #3498db !important; /* Light blue for general links */
-    text-decoration: underline !important;
-  }
-  a[href*="researchgate"]:hover {
-    color: #00ccbb !important; /* ResearchGate green */
-  }
-  a[href*="scholar.google"]:hover {
-    color: #4285F4 !important; /* Google Scholar blue (brand color) */
-  }
-</style>
