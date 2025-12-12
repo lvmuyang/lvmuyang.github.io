@@ -77,6 +77,6 @@ Gábor, L., Jetz, W., **Lu, M.**, Rocchini, D., Cord, A., Malavasi, M., et al. (
 **Lu, M.**, Vasseur, D., Jetz, W. (2019) Beta diversity patterns derived from island biogeography theory. *American Naturalist*, 194, E52–E65. [pdf](http://lvmuyang.github.io/files/AmNat_2019.pdf)<br><br>
 ## 2017
 **Lu, M.**, & He, F. (2017). Estimating regional species richness: The case of China’s vascular plant species. *Global Ecology and Biogeography*, 26: 835–845. [pdf](http://lvmuyang.github.io/files/GEB_2017.pdf) <br>
-耶律牧羊《困扰博物学家两百年的问题，又有答案啦！》*[果壳科普](https://www.guokr.com/article/442147/)*<br><br>
+**耶律牧羊**《困扰博物学家两百年的问题，又有答案啦！》*[果壳](https://www.guokr.com/article/442147/)*<br><br>
 ## 2016
 Zhang, P., **Lyu, M.-Y.**, Wu, C.-F., Chu, Y.-M.-R., Han, N., Yang, D., & Hu, K. (2016). Variation in body mass and morphological characters in Macaca mulatta brevicaudus from Hainan, China. *American Journal of Primatology*, 78(6), 679–698. [pdf](http://lvmuyang.github.io/files/AJP_2016.pdf)
