@@ -57,8 +57,6 @@ layout: page
     }
   }
 </style>
-
-## Publications
 <p class="symbol-note">† denotes co-first authors</p>
 
 ## 2025
