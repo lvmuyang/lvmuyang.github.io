@@ -6,7 +6,8 @@ layout: page
 <style>
   /* Italic journal names (reinforce if needed) */
   em { font-style: italic; }
-  /* PDF link styling */
+  
+  /* PDF link styling (light mode/default) */
   a[href$=".pdf"] {
     color: #2c3e50;
     text-decoration: none;
@@ -16,6 +17,18 @@ layout: page
   a[href$=".pdf"]:hover {
     color: #3498db;
     border-bottom: 1px solid #3498db;
+  }
+
+  /* Dark mode override for PDF links */
+  @media (prefers-color-scheme: dark) {
+    a[href$=".pdf"] {
+      color: white !important; /* White text for PDF links in dark mode */
+      border-bottom: 1px dotted #87ceeb; /* Lighter blue dot for dark mode contrast */
+    }
+    a[href$=".pdf"]:hover {
+      color: #87ceeb !important; /* Pale sky blue hover for dark mode */
+      border-bottom: 1px solid #87ceeb !important;
+    }
   }
 </style>
 
