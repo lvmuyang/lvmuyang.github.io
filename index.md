@@ -3,7 +3,7 @@ layout: default
 ---
 <!-- No titles/headings at all -->
 
-<!-- Add Dark/Light Mode Styling for the Title + SimSun for Chinese Text -->
+<!-- Add Dark/Light Mode Styling for the Title + KaiTi for Chinese Text -->
 <style>
   /* Light mode (default) */
   .studio-title {
@@ -22,10 +22,10 @@ layout: default
     }
   }
 
-  /* 宋体样式（跨浏览器/系统兼容） */
+  /* KaiTi for Chinese characters (cross-browser compatibility) */
   .chinese-name {
-    font-family: "SimSun", "STSong", "AR PL SungtiL GB", serif !important;
-    font-style: normal; /* 避免继承斜体样式 */
+    font-family: "KaiTi", "STKaiti", "AR PL UKai CN", "AR PL UKai HK", serif !important;
+    font-style: normal; /* Override italic if inherited */
   }
 </style>
 
@@ -40,8 +40,7 @@ layout: default
 
   <!-- Bio text (plain paragraph, no headings) -->
   <p style="font-size: 16px; line-height: 1.6; max-width: 800px; margin: 2rem auto; text-align: left;">
-    My name is Muyang Lu (<span class="chinese-name">吕牧羊</span>). I am a theoretical ecologist based at Sichuan University, Chengdu, China.<br>
+    My name is Muyang Lu (<span class="chinese-name">吕牧羊</span>), a theoretical ecologist based at Sichuan University, Chengdu, China.<br>
     I use mathematical and statistical tools to understand and predict macroecological patterns across scales.
   </p>
 </div>
-
