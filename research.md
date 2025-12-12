@@ -16,6 +16,10 @@ layout: page
       color: white !important; /* White text for links in dark mode */
       text-decoration: underline !important; /* Keep underline for visibility */
     }
+    /* Dark mode for light blue title (higher contrast) */
+    .niche-title {
+      color: #add8e6 !important; /* Lighter blue for dark mode readability */
+    }
   }
   /* Optional: Mobile responsiveness (image full-width on small screens) */
   @media (max-width: 600px) {
@@ -29,8 +33,8 @@ layout: page
   }
 </style>
 
-<!-- Niche modeling (Navy Title + Left Image + Text Wrap) -->
-<h2 style="color: light blue !important; margin-top: 2rem !important;">Niche modeling</h2>
+<!-- Niche modeling (Light Blue Title + Left Image + Text Wrap) -->
+<h2 class="niche-title" style="color: #87ceeb !important; margin-top: 2rem !important;">Niche modeling</h2>
 <div style="max-width: 1000px !important; 
             margin: 0 auto !important; 
             padding: 0 1rem !important; 
