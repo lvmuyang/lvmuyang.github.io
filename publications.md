@@ -56,6 +56,20 @@ layout: page
       color: #bdc3c7 !important; /* Light gray (dark mode) */
     }
   }
+
+  /* 楷体样式（跨浏览器/系统兼容）- 所有中文内容生效 */
+  .chinese-text {
+    font-family: "KaiTi", "STKaiti", "AR PL UKai CN", "AR PL UKai HK", serif !important;
+    font-style: normal; /* 避免继承斜体 */
+    font-size: 1em; /* 匹配周边文本字号 */
+    font-weight: 400; /* 常规字重 */
+  }
+  /* 暗黑模式下楷体文本颜色适配 */
+  @media (prefers-color-scheme: dark) {
+    .chinese-text {
+      color: white !important; /* 暗黑模式下中文白色显示 */
+    }
+  }
 </style>
 <br>
 <p class="symbol-note">† denotes co-first authors</p>
@@ -77,6 +91,6 @@ Gábor, L., Jetz, W., **Lu, M.**, Rocchini, D., Cord, A., Malavasi, M., et al. (
 **Lu, M.**, Vasseur, D., Jetz, W. (2019) Beta diversity patterns derived from island biogeography theory. *American Naturalist*, 194, E52–E65. [pdf](http://lvmuyang.github.io/files/AmNat_2019.pdf)<br><br>
 ## 2017
 **Lu, M.**, & He, F. (2017). Estimating regional species richness: The case of China’s vascular plant species. *Global Ecology and Biogeography*, 26: 835–845. [pdf](http://lvmuyang.github.io/files/GEB_2017.pdf) <br>
-**耶律牧羊**《困扰博物学家两百年的问题，又有答案啦！》*[果壳](https://www.guokr.com/article/442147/)*<br><br>
+<span class="chinese-text">耶律牧羊</span>《<span class="chinese-text">困扰博物学家两百年的问题，又有答案啦！</span>》*[<span class="chinese-text">果壳</span>](https://www.guokr.com/article/442147/)*<br><br>
 ## 2016
 Zhang, P., **Lyu, M.-Y.**, Wu, C.-F., Chu, Y.-M.-R., Han, N., Yang, D., & Hu, K. (2016). Variation in body mass and morphological characters in Macaca mulatta brevicaudus from Hainan, China. *American Journal of Primatology*, 78(6), 679–698. [pdf](http://lvmuyang.github.io/files/AJP_2016.pdf)
