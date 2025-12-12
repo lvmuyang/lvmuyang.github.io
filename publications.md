@@ -30,12 +30,41 @@ layout: page
       border-bottom: 1px solid #87ceeb !important;
     }
   }
+
+  /* Style for co-first author dagger (optional: match link color) */
+  .co-first {
+    color: #2c3e50; /* Light mode: match link base color */
+    font-size: 0.8rem; /* Slightly smaller for subtlety */
+    vertical-align: super; /* Position as superscript */
+  }
+  @media (prefers-color-scheme: dark) {
+    .co-first {
+      color: white !important; /* Dark mode: white dagger */
+    }
+  }
+
+  /* Style for symbol explanation note */
+  .symbol-note {
+    color: #7f8c8d; /* Neutral gray (light mode) */
+    font-size: 0.9rem;
+    margin: -1rem 0 2rem 0; /* Spacing: close to title, space below */
+    font-style: normal;
+  }
+  /* Dark mode for symbol note (lighter gray for contrast) */
+  @media (prefers-color-scheme: dark) {
+    .symbol-note {
+      color: #bdc3c7 !important; /* Light gray (dark mode) */
+    }
+  }
 </style>
 
+## Publications
+<p class="symbol-note">† denotes co-first authors</p>
+
 ## 2025
-**Lu, M.** & Jetz, W. (2025). Fine-grain data reveal vulnerability of biodiversity to climate change. *Global Change Biology*，31, e70627. [pdf](http://lvmuyang.github.io/files/GCB_2025.pdf)<br><br>
-**Lu, M.**, Yanco, S.W., Carlson, B.S., Winner, K., Cohen, J.M., Ellis-Soto, D., et al. (2025). A theoretical framework for scaling ecological niches from individuals to species. *Proceedings of the National Academy of Sciences*, 122, e2425582122. [pdf](http://lvmuyang.github.io/files/PNAS_2025.pdf) <br><br>
-Song, C., **Lu, M.(co-first)**, Bennett, J.R., Gilbert, B., Fortin, M.-J. & Gonzalez, A. (2025). A geometric approach to beta diversity. *Ecological Monographs*, 95, e70008. [pdf](http://lvmuyang.github.io/files/EcoMon_2025.pdf) <br><br>
+**Lu, M.** & Jetz, W. (2025). Fine-grain data reveal vulnerability of biodiversity to climate change. *Global Change Biology*, 31, e70627. [pdf](http://lvmuyang.github.io/files/GCB_2025.pdf)<br><br>
+**Lu, M.** & Yanco, S.W., Carlson, B.S., Winner, K., Cohen, J.M., Ellis-Soto, D., et al. (2025). A theoretical framework for scaling ecological niches from individuals to species. *Proceedings of the National Academy of Sciences*, 122, e2425582122. [pdf](http://lvmuyang.github.io/files/PNAS_2025.pdf) <br><br>
+Song, C.<span class="co-first">†</span>, **Lu, M.**<span class="co-first">†</span>, Bennett, J.R., Gilbert, B., Fortin, M.-J. & Gonzalez, A. (2025). A geometric approach to beta diversity. *Ecological Monographs*, 95, e70008. [pdf](http://lvmuyang.github.io/files/EcoMon_2025.pdf) <br><br>
 Williamson, J., **Lu, M.**, Camus, M.F., Gregory, R.D., Maclean, I.M.D., Rocha, J.C., et al. (2025). Clustered warming tolerances and the nonlinear risks of biodiversity loss on a warming planet. *Philosophical Transactions of the Royal Society B: Biological Sciences*, 380, 20230321. [pdf](http://lvmuyang.github.io/files/ProcB_2025.pdf)<br><br>
 ## 2023
 **Lu, M.** & Jetz, W. (2023). Scale-sensitivity in the measurement and interpretation of environmental niches. *Trends in Ecology & Evolution*, 38, 554–567. [pdf](http://lvmuyang.github.io/files/TREE_2023.pdf) <br><br>
