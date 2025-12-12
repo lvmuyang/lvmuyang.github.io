@@ -40,7 +40,7 @@ layout: default
 
   <!-- Bio text (plain paragraph, no headings) -->
   <p style="font-size: 16px; line-height: 1.6; max-width: 800px; margin: 2rem auto; text-align: left;">
-    My name is Muyang Lu (<span class="chinese-name">吕牧羊</span>), a theoretical ecologist based at Sichuan University, Chengdu, China.<br>
+    My name is Muyang Lu (<span class="chinese-name">吕牧羊</span>). I am a theoretical ecologist based at Sichuan University, Chengdu, China (a city most famous for giant pandas and spicy hotpot).<br>
     I use mathematical and statistical tools to understand and predict macroecological patterns across scales.
   </p>
 </div>
