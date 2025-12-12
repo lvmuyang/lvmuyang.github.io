@@ -4,11 +4,18 @@ permalink: "/research/"
 layout: page
 ---
 
-<!-- Global Style for Links (Consistent Across Sections) -->
+<!-- Global Style for Links (Consistent Across Sections + Dark Mode Support) -->
 <style>
   .research-link {
     color: #2c3e50 !important;
     text-decoration: underline !important;
+  }
+  /* Dark mode override for hyperlinks */
+  @media (prefers-color-scheme: dark) {
+    .research-link {
+      color: white !important; /* White text for links in dark mode */
+      text-decoration: underline !important; /* Keep underline for visibility */
+    }
   }
   /* Optional: Mobile responsiveness (image full-width on small screens) */
   @media (max-width: 600px) {
