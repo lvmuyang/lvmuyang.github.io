@@ -34,7 +34,7 @@ layout: default
 
   <!-- Bio text (plain paragraph, no headings) -->
   <p style="font-size: 16px; line-height: 1.6; max-width: 800px; margin: 2rem auto; text-align: left;">
-    I am a theoretical ecologist at Sichuan University, Chengdu, China.<br>
+    I am a theoretical ecologist based at Sichuan University, Chengdu, China.<br>
     I use mathematical and statistical tools to understand and predict macroecological patterns across scales.
   </p>
 </div>
