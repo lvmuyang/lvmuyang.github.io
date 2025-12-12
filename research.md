@@ -30,7 +30,7 @@ layout: page
 </style>
 
 <!-- Niche modeling (Navy Title + Left Image + Text Wrap) -->
-<h2 style="color: navy !important; margin-top: 2rem !important;">Niche modeling</h2>
+<h2 style="color: light blue !important; margin-top: 2rem !important;">Niche modeling</h2>
 <div style="max-width: 1000px !important; 
             margin: 0 auto !important; 
             padding: 0 1rem !important; 
