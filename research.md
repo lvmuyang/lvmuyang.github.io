@@ -16,9 +16,15 @@ layout: page
       color: white !important; /* White text for links in dark mode */
       text-decoration: underline !important; /* Keep underline for visibility */
     }
-    /* Dark mode for light blue title (higher contrast) */
+    /* Dark mode for all section titles (higher contrast) */
     .niche-title {
-      color: #add8e6 !important; /* Lighter blue for dark mode readability */
+      color: #add8e6 !important; /* Lighter blue for Niche modeling */
+    }
+    .metacomm-title {
+      color: #90ee90 !important; /* Pale green for Meta-community (dark mode) */
+    }
+    .extinction-title {
+      color: #f08080 !important; /* Pale red for Extinction risk (dark mode) */
     }
   }
   /* Optional: Mobile responsiveness (image full-width on small screens) */
@@ -67,8 +73,8 @@ layout: page
   <div style="clear: both !important;"></div>
 </div>
 
-<!-- Meta-community (Grass Green Title + Right Image + Text Wrap) -->
-<h2 style="color: #558b2f !important; margin-top: 3rem !important;">Meta-community</h2>
+<!-- Meta-community (Light Green Title + Right Image + Text Wrap) -->
+<h2 class="metacomm-title" style="color: #90ee90 !important; margin-top: 3rem !important;">Meta-community</h2>
 <div style="max-width: 1000px !important; 
             margin: 0 auto !important; 
             padding: 0 1rem !important; 
@@ -96,8 +102,8 @@ layout: page
   <div style="clear: both !important;"></div>
 </div>
 
-<!-- Extinction risk (Maroon Title + Left Image + Text Wrap) -->
-<h2 style="color: #800000 !important; margin-top: 3rem !important;">Extinction risk</h2>
+<!-- Extinction risk (Light Red Title + Left Image + Text Wrap) -->
+<h2 class="extinction-title" style="color: #f08080 !important; margin-top: 3rem !important;">Extinction risk</h2>
 <div style="max-width: 1000px !important; 
             margin: 0 auto !important; 
             padding: 0 1rem !important; 
