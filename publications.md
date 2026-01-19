@@ -75,7 +75,7 @@ layout: page
 <p class="symbol-note">† denotes co-first authors; * denotes co-corresponding authors</p>
 
 ## 2026
-Zhang, S., Cao, Y., Wang, Y., Zhang, J., Ran, J., **Lu, M.**<span class="co-corresponding">†</span>, Wu, Y.<span class="co-corresponding">†</span> (2026). Temperature and Precipitation Niche Dynamics Shape Avian Elevational Shift Strategies in the Hengduan Mountains. Journal of Biogeography, 53, e70148.
+Zhang, S., Cao, Y., Wang, Y., Zhang, J., Ran, J., **Lu, M.**<span class="co-corresponding">†</span>, Wu, Y.<span class="co-corresponding">†</span> (2026). Temperature and Precipitation Niche Dynamics Shape Avian Elevational Shift Strategies in the Hengduan Mountains. *Journal of Biogeography*, 53, e70148. [pdf](http://lvmuyang.github.io/files/JBI_2026.pdf)<br><br>
 ## 2025
 **Lu, M.** & Jetz, W. (2025). Fine-grain data reveal vulnerability of biodiversity to climate change. *Global Change Biology*, 31, e70627. [pdf](http://lvmuyang.github.io/files/GCB_2025.pdf)<br><br>
 **Lu, M.**<span class="co-corresponding">†</span> & Yanco, S.W., Carlson, B.S., Winner, K., Cohen, J.M., Ellis-Soto, D., Shubhi, S., Will, R., Jetz, W.<span class="co-corresponding">†</span> (2025). A theoretical framework for scaling ecological niches from individuals to species. *Proceedings of the National Academy of Sciences*, 122, e2425582122. [pdf](http://lvmuyang.github.io/files/PNAS_2025.pdf) <br><br>
