@@ -5,7 +5,7 @@ layout: page
 ---
 <style>
   /* Italic journal names (reinforce if needed) */
-  em { font-style: italic; }
+  em { font-style: italic !important; } /* 强制斜体，避免被其他样式覆盖 */
   
   /* PDF link styling (light mode/default) */
   a[href$=".pdf"] {
@@ -43,6 +43,14 @@ layout: page
     }
   }
 
+  /* 【新增】共同通讯作者*上标样式（解决*不显示/排版混乱问题） */
+  .co-corresponding {
+    vertical-align: super; /* 上标显示，符合学术排版规范 */
+    font-size: 0.8rem; /* 字号缩小，不突兀 */
+    color: inherit; /* 继承父元素颜色，适配明暗模式 */
+    margin-left: 2px; /* 与姓名保持微小间距，提升美观度 */
+  }
+
   /* Style for symbol explanation note */
   .symbol-note {
     color: #7f8c8d; /* Neutral gray (light mode) */
@@ -72,27 +80,27 @@ layout: page
   }
 </style>
 <br>
-<p class="symbol-note">† denotes co-first authors; * denotes co-corresponding authors</p>
+<p class="symbol-note">† denotes co-first authors; § denotes co-corresponding authors</p>
 
 ## 2026
-Zhang, S., Cao, Y., Wang, Y., Zhang, J., Ran, J., **Lu, M.***, Wu, Y.<span class="corresponding">*</span>(2026). Temperature and Precipitation Niche Dynamics Shape Avian Elevational Shift Strategies in the Hengduan Mountains. *Journal of Biogeography*, 53, e70148. [pdf](http://lvmuyang.github.io/files/JBI_2026.pdf)<br><br>
+Zhang, S., Cao, Y., Wang, Y., Zhang, J., Ran, J., **Lu, M.** <span class="co-corresponding">§</span>, Wu, Y.<span class="co-corresponding">§</span> (2026). Temperature and Precipitation Niche Dynamics Shape Avian Elevational Shift Strategies in the Hengduan Mountains. *Journal of Biogeography*, 53, e70148. [pdf](http://lvmuyang.github.io/files/JBI_2026.pdf)<br><br>
 ## 2025
 **Lu, M.** & Jetz, W. (2025). Fine-grain data reveal vulnerability of biodiversity to climate change. *Global Change Biology*, 31, e70627. [pdf](http://lvmuyang.github.io/files/GCB_2025.pdf)<br><br>
-**Lu, M.***, Yanco, S.W., Carlson, B.S., Winner, K., Cohen, J.M., Ellis-Soto, D., Shubhi, S., Will, R., Jetz, W.<span class="corresponding">*</span> (2025). A theoretical framework for scaling ecological niches from individuals to species. *Proceedings of the National Academy of Sciences*, 122, e2425582122. [pdf](http://lvmuyang.github.io/files/PNAS_2025.pdf) <br><br>
-Song, C.<span class="co-first">†</span>, **Lu, M.**<span class="co-first">†</span>, Bennett, J.R., Gilbert, B., Fortin, M.-J. & Gonzalez, A. (2025). A geometric approach to beta diversity. *Ecological Monographs*, 95, e70008. [pdf](http://lvmuyang.github.io/files/EcoMon_2025.pdf) <br><br>
+**Lu, M.** <span class="co-corresponding">§</span>, Yanco, S.W., Carlson, B.S., Winner, K., Cohen, J.M., Ellis-Soto, D., Shubhi, S., Will, R., Jetz, W.<span class="co-corresponding">§</span> (2025). A theoretical framework for scaling ecological niches from individuals to species. *Proceedings of the National Academy of Sciences*, 122, e2425582122. [pdf](http://lvmuyang.github.io/files/PNAS_2025.pdf) <br><br>
+Song, C.<span class="co-first">†</span>, **Lu, M.** <span class="co-first">†</span>, Bennett, J.R., Gilbert, B., Fortin, M.-J. & Gonzalez, A. (2025). A geometric approach to beta diversity. *Ecological Monographs*, 95, e70008. [pdf](http://lvmuyang.github.io/files/EcoMon_2025.pdf) <br><br>
 Williamson, J., **Lu, M.**, Camus, M.F., Gregory, R.D., Maclean, I.M.D., Rocha, J.C., et al. (2025). Clustered warming tolerances and the nonlinear risks of biodiversity loss on a warming planet. *Philosophical Transactions of the Royal Society B: Biological Sciences*, 380, 20230321. [pdf](http://lvmuyang.github.io/files/ProcB_2025.pdf)<br><br>
 ## 2023
-**Lu, M.**<span class="co-corresponding">*</span> & Jetz, W.<span class="co-corresponding">*</span> (2023). Scale-sensitivity in the measurement and interpretation of environmental niches. *Trends in Ecology & Evolution*, 38, 554–567. [pdf](http://lvmuyang.github.io/files/TREE_2023.pdf) <br><br>
+**Lu, M.** <span class="co-corresponding">§</span> & Jetz, W.<span class="co-corresponding">§</span> (2023). Scale-sensitivity in the measurement and interpretation of environmental niches. *Trends in Ecology & Evolution*, 38, 554–567. [pdf](http://lvmuyang.github.io/files/TREE_2023.pdf) <br><br>
 ## 2022
 Gábor, L., Jetz, W., **Lu, M.**, Rocchini, D., Cord, A., Malavasi, M., et al. (2022). Positional errors in species distribution modelling are not overcome by the coarser grains of analysis. *Methods in Ecology and Evolution*, 13, 2289–2302. [pdf](http://lvmuyang.github.io/files/MEE_2022.pdf) <br><br>
 ## 2021
 **Lu, M.** (2021). Complex relationships between beta diversity and dispersal in metacommunity models. *Ecography*, 44(12), 1769–1780. [pdf](http://lvmuyang.github.io/files/Ecog_2021.pdf)<br><br>
 **Lu, M.**, Winner, K., & Jetz, W. (2021). A unifying framework for quantifying and comparing n-dimensional hypervolumes. *Methods in Ecology and Evolution*, 12(10), 1953–1968. [pdf](http://lvmuyang.github.io/files/MEE_2021.pdf) <br><br>
-**Lu, M.**, Gao, L., Li, H., & He, F. (2021). The patterns of vascular plant discoveries in China. *Ecology and Evolution*, 11(18), 12378–12388. [pdf](http://lvmuyang.github.io/files/EE_2021.pdf)<br><br>
+**Lu, M.**, Gao, L., Li, H., & He, F.(2021). The patterns of vascular plant discoveries in China. *Ecology and Evolution*, 11(18), 12378–12388. [pdf](http://lvmuyang.github.io/files/EE_2021.pdf)<br><br>
 ## 2019
-**Lu, M.**, Vasseur, D., Jetz, W. (2019) Beta diversity patterns derived from island biogeography theory. *American Naturalist*, 194, E52–E65. [pdf](http://lvmuyang.github.io/files/AmNat_2019.pdf)<br><br>
+**Lu, M.**, Vasseur, D., Jetz, W. (2019). Beta diversity patterns derived from island biogeography theory. *American Naturalist*, 194, E52–E65. [pdf](http://lvmuyang.github.io/files/AmNat_2019.pdf)<br><br>
 ## 2017
 **Lu, M.**, & He, F. (2017). Estimating regional species richness: The case of China’s vascular plant species. *Global Ecology and Biogeography*, 26: 835–845. [pdf](http://lvmuyang.github.io/files/GEB_2017.pdf) <br>
-<span class="chinese-text">耶律牧羊</span>《<span class="chinese-text">困扰博物学家两百年的问题，又有答案啦！</span>》*[<span class="chinese-text">果壳</span>](https://www.guokr.com/article/442147/)*<br><br>
+<span class="chinese-text">耶律牧羊</span>《<span class="chinese-text">困扰博物学家两百年的问题，又有答案啦！</span>》[<span class="chinese-text">果壳</span>](https://www.guokr.com/article/442147/)<br><br>
 ## 2016
 Zhang, P., **Lyu, M.-Y.**, Wu, C.-F., Chu, Y.-M.-R., Han, N., Yang, D., & Hu, K. (2016). Variation in body mass and morphological characters in Macaca mulatta brevicaudus from Hainan, China. *American Journal of Primatology*, 78(6), 679–698. [pdf](http://lvmuyang.github.io/files/AJP_2016.pdf)
