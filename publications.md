@@ -72,15 +72,17 @@ layout: page
   }
 </style>
 <br>
-<p class="symbol-note">† denotes co-first authors</p>
+<p class="symbol-note">† denotes co-first authors; * denotes co-corresponding authors</p>
 
+## 2026
+Zhang, S., Cao, Y., Wang, Y., Zhang, J., Ran, J., **Lu, M.**<span class="co-corresponding">†</span>, Wu, Y.<span class="co-corresponding">†</span> (2026). Temperature and Precipitation Niche Dynamics Shape Avian Elevational Shift Strategies in the Hengduan Mountains. Journal of Biogeography, 53, e70148.
 ## 2025
 **Lu, M.** & Jetz, W. (2025). Fine-grain data reveal vulnerability of biodiversity to climate change. *Global Change Biology*, 31, e70627. [pdf](http://lvmuyang.github.io/files/GCB_2025.pdf)<br><br>
-**Lu, M.** & Yanco, S.W., Carlson, B.S., Winner, K., Cohen, J.M., Ellis-Soto, D., et al. (2025). A theoretical framework for scaling ecological niches from individuals to species. *Proceedings of the National Academy of Sciences*, 122, e2425582122. [pdf](http://lvmuyang.github.io/files/PNAS_2025.pdf) <br><br>
+**Lu, M.**<span class="co-corresponding">†</span> & Yanco, S.W., Carlson, B.S., Winner, K., Cohen, J.M., Ellis-Soto, D., Shubhi, S., Will, R., Jetz, W.<span class="co-corresponding">†</span> (2025). A theoretical framework for scaling ecological niches from individuals to species. *Proceedings of the National Academy of Sciences*, 122, e2425582122. [pdf](http://lvmuyang.github.io/files/PNAS_2025.pdf) <br><br>
 Song, C.<span class="co-first">†</span>, **Lu, M.**<span class="co-first">†</span>, Bennett, J.R., Gilbert, B., Fortin, M.-J. & Gonzalez, A. (2025). A geometric approach to beta diversity. *Ecological Monographs*, 95, e70008. [pdf](http://lvmuyang.github.io/files/EcoMon_2025.pdf) <br><br>
 Williamson, J., **Lu, M.**, Camus, M.F., Gregory, R.D., Maclean, I.M.D., Rocha, J.C., et al. (2025). Clustered warming tolerances and the nonlinear risks of biodiversity loss on a warming planet. *Philosophical Transactions of the Royal Society B: Biological Sciences*, 380, 20230321. [pdf](http://lvmuyang.github.io/files/ProcB_2025.pdf)<br><br>
 ## 2023
-**Lu, M.** & Jetz, W. (2023). Scale-sensitivity in the measurement and interpretation of environmental niches. *Trends in Ecology & Evolution*, 38, 554–567. [pdf](http://lvmuyang.github.io/files/TREE_2023.pdf) <br><br>
+**Lu, M.**<span class="co-corresponding">†</span> & Jetz, W.<span class="co-corresponding">†</span> (2023). Scale-sensitivity in the measurement and interpretation of environmental niches. *Trends in Ecology & Evolution*, 38, 554–567. [pdf](http://lvmuyang.github.io/files/TREE_2023.pdf) <br><br>
 ## 2022
 Gábor, L., Jetz, W., **Lu, M.**, Rocchini, D., Cord, A., Malavasi, M., et al. (2022). Positional errors in species distribution modelling are not overcome by the coarser grains of analysis. *Methods in Ecology and Evolution*, 13, 2289–2302. [pdf](http://lvmuyang.github.io/files/MEE_2022.pdf) <br><br>
 ## 2021
